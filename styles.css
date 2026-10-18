@@ -240,7 +240,8 @@ ul, ol { list-style: none; }
 }
 
 .hero-ticker {
-  font-family: var(--font-jp);
+  font-family: var(--font-display);
+  font-weight: 600;
   font-size: clamp(1.6rem, 3vw, 2.3rem);
   letter-spacing: 0.22em;
   color: var(--gold);
